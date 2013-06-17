@@ -1,0 +1,17 @@
+1 - Mostrar site;
+2 - Mostrar Como instalar;
+3 - Mostrar teste criado;
+4 - Rodar package de testes;
+5 - Demonstrar o que acontece caso 2 testes na mesma procedure falhem ( só o primeiro teste aparece );
+6 - Demonstrar o que acontece caso 2 testes na mesma package falhem ( não aparece na última linha os 2 procedimentos inválidos);
+7 - Mostrar os demais tipos de teste que a ferramenta possui;
+8 - Mostrar a comparação de querie results
+9 - Comentar prós e contras
+
+Prós - 
+Simples de usar;
+Fácil de instalar;
+
+Contras - 
+O Código não é aberto;
+Apresenta alguns bugs;
